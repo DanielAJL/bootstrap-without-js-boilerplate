@@ -7,6 +7,7 @@ It contains:
 <li>A three column footer.</li>
 <li>Basic file structure setup.</li>
 </ul>
+
 ## <b>Why?</b>
 Bootstrap is a huge library with many files and lines of code. Not every line of code is being used by the developer(s). I got rid of the JS/JQuery files to be able to add functionality to the components I make myself. That way I get rid of unused code, and, for example, can freely build my own carousel.
 
